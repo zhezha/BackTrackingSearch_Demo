@@ -1,11 +1,11 @@
-# BackTrackingSearch_Demo
+# Trustpilot_Code_Challenge
 
-Backtracking search with recursion
+A recursive Backtracking search
 
 A secret phrase consists of words from a given *wordlist* file. Given<br>
-1. An anagram of the phase: "no city dust here"<br>
-2. The MD5 hash of the secret phrase: "b411f74102bfc6155ad322251a49e7a6"
+1. An anagram of the phase: "poultry outwits ants"<br>
+2. The MD5 hash of the secret phrase looking for: "4624d200580677270a54ccff86b9610e"
 
-The demo code searches for the secret phrase in the file *wordlist*.
+The code searches for the secret phrase in the file *wordlist*.
 
-If you try to run the code to see what the secret phase is, it might take some time :-)
+More details can be read [here](http://followthewhiterabbit.trustpilot.com/cs/step3.html) 
